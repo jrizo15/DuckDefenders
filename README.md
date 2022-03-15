@@ -15,3 +15,5 @@ which takes in 3 parameters:
  
  The user must be connected to the Ducklink network in order for the script to 
  automatically send these packets/messages.
+
+Here's a link to Prject OWL's ClusterDuck protocol: https://github.com/Project-Owl/ClusterDuck-Protocol

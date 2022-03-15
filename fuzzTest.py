@@ -10,7 +10,4 @@ def fuzzer(max_len: int = 100, char_start: int = 65, char_range: int =26) -> str
     #print(out)
     return out
 
-def invalidCDP_Packet():
-    pass
-
 #fuzzer(100,32,95)
